@@ -1,0 +1,9 @@
+Befehle die man eingeben muss für Tensorboard:
+
+(base) C:\Users\...\gestus\Logs\train
+
+(base) C:\Users\...\gestus\Logs\train>dir
+
+(base) C:\Users\...\gestus\Logs\train>tensorboard --logdir=.
+
+http://localhost:6006/ (Press CTRL+C to quit)
